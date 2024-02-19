@@ -1,4 +1,6 @@
 import numpy as pip
 
-b = pip.zeros(5)
-print(b)
+text = "Not Hello world! Not Mother fucker!"
+a = -2
+b = -3
+c = a + b - (a+b)/2 + -a**7
